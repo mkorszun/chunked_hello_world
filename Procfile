@@ -1,0 +1,1 @@
+web: erl -pa ebin deps/*/ebin -s chunked_hello_world
